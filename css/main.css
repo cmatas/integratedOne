@@ -1,0 +1,16 @@
+body {
+  font-family: 'Century Gothic', 'Arial', sans-serif;
+  font-size: 20pt;
+  color: #612c75;
+  background: #f9f0d6;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+footer {
+  float: right;
+  font-size: 12pt;
+}
